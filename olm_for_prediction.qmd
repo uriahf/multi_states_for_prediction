@@ -1,0 +1,20 @@
+---
+title: "Ordinal Longitudinal Multi-States for Prediction"
+author: "Uriah Finkel"
+format: revealjs
+editor: visual
+---
+
+## Agenda
+
+-   What are Ordinal Longitudinal Mults-States Models?
+
+-   Why using OLM?
+
+-   Main Challenges
+
+-   From Unified to a Richer Jargon
+
+-   Outcomes
+
+-   Probabilities
