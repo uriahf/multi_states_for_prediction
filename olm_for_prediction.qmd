@@ -18,3 +18,19 @@ editor: visual
 -   Outcomes
 
 -   Probabilities
+
+## Outcomes
+
+## State Occupancy
+
+### Absorbing State: Prevalence = Cumulative-Incidence
+
+### Non-Absorbing State: Prevalence \<= Cumulative-Incidence
+
+## Probabilities
+
+### State-Transition Probability
+
+### State-Occupancy Probability
+
+### State-Visit Probability
